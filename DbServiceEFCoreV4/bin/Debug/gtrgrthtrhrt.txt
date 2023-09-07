@@ -1,0 +1,16 @@
+da vidis to so end monitoring i start monitoring dali prestanva da monitorira
+site lini kod da znajs za sho ti se 
+da prajs zapisi i vo tretata kolona koga e kreirana i so koja konfiguracija da ne se meshat da mozi da vidi ko bila kreirana konfiguracijata sho ekstenzi imalo
+da ima nesto ako sakash samo slikite i videata da gi gledash da gi oddelva
+od formite navigation bar da go izbrsihish i da ima za brsihenje cela konfiguracija 
+i ekstenzite da mozis da gi izbrishish  i da zapishva vo bazata deka konfiguracijata ja nema pokje 
+
+deka e pristapen od drug thread razlicen od toj sto e kreiran datagridview-to
+sea so invoke toa treba da go vratis na prvobitniot thread, toj sto e kreiran
+sto e toa Main thread i opsto za thread sda im objasnam 
+
+
+
+
+treba da vidis ko ke promenis nekoja ekstenzija oti evenot ne se povikva
+da si dodajs vo filemonitoring fajlot sho ekstenzija e 
